@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0474-ones-and-zeroes) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/adarshh8/leetcode_question/tree/master/2288-count-operations-to-obtain-zero) |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Simulation
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0474-ones-and-zeroes) |
+## Number Theory
+|  |
+| ------- |
+| [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->

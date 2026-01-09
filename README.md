@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshh8/leetcode_question/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/adarshh8/leetcode_question/tree/master/0015-3sum) |
 | [0474-ones-and-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0474-ones-and-zeroes) |
 | [1390-four-divisors](https://github.com/adarshh8/leetcode_question/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adarshh8/leetcode_question/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -109,4 +110,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshh8/leetcode_question/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/adarshh8/leetcode_question/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/adarshh8/leetcode_question/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/adarshh8/leetcode_question/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/adarshh8/leetcode_question/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/adarshh8/leetcode_question/tree/master/0015-3sum) |
+| [0085-maximal-rectangle](https://github.com/adarshh8/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0474-ones-and-zeroes) |
 | [1390-four-divisors](https://github.com/adarshh8/leetcode_question/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adarshh8/leetcode_question/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/adarshh8/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0474-ones-and-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adarshh8/leetcode_question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/adarshh8/leetcode_question/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/adarshh8/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [1975-maximum-matrix-sum](https://github.com/adarshh8/leetcode_question/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Tree
@@ -123,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adarshh8/leetcode_question/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/adarshh8/leetcode_question/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/adarshh8/leetcode_question/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3453-separate-squares-i](https://github.com/adarshh8/leetcode_question/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/adarshh8/leetcode_question/tree/master/3454-separate-squares-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3453-separate-squares-i](https://github.com/adarshh8/leetcode_question/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/adarshh8/leetcode_question/tree/master/3454-separate-squares-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshh8/leetcode_question/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/adarshh8/leetcode_question/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/adarshh8/leetcode_question/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->

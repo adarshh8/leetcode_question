@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adarshh8/leetcode_question/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adarshh8/leetcode_question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adarshh8/leetcode_question/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/adarshh8/leetcode_question/tree/master/0035-search-insert-position) |
 | [0085-maximal-rectangle](https://github.com/adarshh8/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/adarshh8/leetcode_question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adarshh8/leetcode_question/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adarshh8/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |

@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adarshh8/leetcode_question/tree/master/0035-search-insert-position) |
 | [0085-maximal-rectangle](https://github.com/adarshh8/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/adarshh8/leetcode_question/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/adarshh8/leetcode_question/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0283-move-zeroes) |
 | [0474-ones-and-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0474-ones-and-zeroes) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/adarshh8/leetcode_question/tree/master/0238-product-of-array-except-self) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adarshh8/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/adarshh8/leetcode_question/tree/master/1895-largest-magic-square) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |

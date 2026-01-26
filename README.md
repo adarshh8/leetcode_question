@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/adarshh8/leetcode_question/tree/master/1390-four-divisors) |
 | [2288-count-operations-to-obtain-zero](https://github.com/adarshh8/leetcode_question/tree/master/2288-count-operations-to-obtain-zero) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/adarshh8/leetcode_question/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/adarshh8/leetcode_question/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3516-find-closest-person](https://github.com/adarshh8/leetcode_question/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adarshh8/leetcode_question/tree/master/3783-mirror-distance-of-an-integer) |

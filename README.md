@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/adarshh8/leetcode_question/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshh8/leetcode_question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/adarshh8/leetcode_question/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/adarshh8/leetcode_question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adarshh8/leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adarshh8/leetcode_question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adarshh8/leetcode_question/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshh8/leetcode_question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/adarshh8/leetcode_question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adarshh8/leetcode_question/tree/master/0242-valid-anagram) |
 | [0474-ones-and-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adarshh8/leetcode_question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |

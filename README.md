@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshh8/leetcode_question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarshh8/leetcode_question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/adarshh8/leetcode_question/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bit Manipulation
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshh8/leetcode_question/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

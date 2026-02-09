@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adarshh8/leetcode_question/tree/master/0011-container-with-most-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [1903-largest-odd-number-in-string](https://github.com/adarshh8/leetcode_question/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/adarshh8/leetcode_question/tree/master/1975-maximum-matrix-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adarshh8/leetcode_question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adarshh8/leetcode_question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/adarshh8/leetcode_question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/adarshh8/leetcode_question/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adarshh8/leetcode_question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adarshh8/leetcode_question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/adarshh8/leetcode_question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/adarshh8/leetcode_question/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Breadth-First Search
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adarshh8/leetcode_question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adarshh8/leetcode_question/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/adarshh8/leetcode_question/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -332,9 +336,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshh8/leetcode_question/tree/master/0169-majority-element) |
+| [1382-balance-a-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0234-palindrome-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->

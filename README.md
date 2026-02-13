@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/adarshh8/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/adarshh8/leetcode_question/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/adarshh8/leetcode_question/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/adarshh8/leetcode_question/tree/master/1903-largest-odd-number-in-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/adarshh8/leetcode_question/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/adarshh8/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/adarshh8/leetcode_question/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/adarshh8/leetcode_question/tree/master/1895-largest-magic-square) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3714-longest-balanced-substring-ii](https://github.com/adarshh8/leetcode_question/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/adarshh8/leetcode_question/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
 |  |

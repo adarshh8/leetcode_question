@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adarshh8/leetcode_question/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshh8/leetcode_question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adarshh8/leetcode_question/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/adarshh8/leetcode_question/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/adarshh8/leetcode_question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adarshh8/leetcode_question/tree/master/0242-valid-anagram) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/adarshh8/leetcode_question/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/adarshh8/leetcode_question/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/adarshh8/leetcode_question/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/adarshh8/leetcode_question/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/adarshh8/leetcode_question/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adarshh8/leetcode_question/tree/master/1266-minimum-time-visiting-all-points) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adarshh8/leetcode_question/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/adarshh8/leetcode_question/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshh8/leetcode_question/tree/master/2073-time-needed-to-buy-tickets) |
 | [2288-count-operations-to-obtain-zero](https://github.com/adarshh8/leetcode_question/tree/master/2288-count-operations-to-obtain-zero) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/adarshh8/leetcode_question/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Heap (Priority Queue)

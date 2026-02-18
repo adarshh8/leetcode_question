@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/adarshh8/leetcode_question/tree/master/0496-next-greater-element-i) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adarshh8/leetcode_question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1512-number-of-good-pairs](https://github.com/adarshh8/leetcode_question/tree/master/1512-number-of-good-pairs) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/adarshh8/leetcode_question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adarshh8/leetcode_question/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adarshh8/leetcode_question/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adarshh8/leetcode_question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/adarshh8/leetcode_question/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshh8/leetcode_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/adarshh8/leetcode_question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshh8/leetcode_question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/adarshh8/leetcode_question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1903-largest-odd-number-in-string](https://github.com/adarshh8/leetcode_question/tree/master/1903-largest-odd-number-in-string) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/adarshh8/leetcode_question/tree/master/0799-champagne-tower) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/adarshh8/leetcode_question/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adarshh8/leetcode_question/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/adarshh8/leetcode_question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/adarshh8/leetcode_question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3640-trionic-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3640-trionic-array-ii) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/adarshh8/leetcode_question/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/adarshh8/leetcode_question/tree/master/0693-binary-number-with-alternating-bits) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/adarshh8/leetcode_question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Heap (Priority Queue)
 |  |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/adarshh8/leetcode_question/tree/master/0496-next-greater-element-i) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adarshh8/leetcode_question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/adarshh8/leetcode_question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/adarshh8/leetcode_question/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/adarshh8/leetcode_question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adarshh8/leetcode_question/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adarshh8/leetcode_question/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0844-backspace-string-compare](https://github.com/adarshh8/leetcode_question/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshh8/leetcode_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/adarshh8/leetcode_question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/adarshh8/leetcode_question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshh8/leetcode_question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/adarshh8/leetcode_question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/adarshh8/leetcode_question/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/adarshh8/leetcode_question/tree/master/0693-binary-number-with-alternating-bits) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/adarshh8/leetcode_question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/adarshh8/leetcode_question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Heap (Priority Queue)
@@ -476,4 +479,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adarshh8/leetcode_question/tree/master/0225-implement-stack-using-queues) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/adarshh8/leetcode_question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/adarshh8/leetcode_question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

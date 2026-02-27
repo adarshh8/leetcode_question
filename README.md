@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adarshh8/leetcode_question/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshh8/leetcode_question/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshh8/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1046-last-stone-weight](https://github.com/adarshh8/leetcode_question/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/adarshh8/leetcode_question/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adarshh8/leetcode_question/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adarshh8/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/adarshh8/leetcode_question/tree/master/1046-last-stone-weight) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adarshh8/leetcode_question/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/adarshh8/leetcode_question/tree/master/3650-minimum-cost-path-with-edge-reversals) |

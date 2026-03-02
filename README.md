@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/adarshh8/leetcode_question/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adarshh8/leetcode_question/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1512-number-of-good-pairs](https://github.com/adarshh8/leetcode_question/tree/master/1512-number-of-good-pairs) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/adarshh8/leetcode_question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/adarshh8/leetcode_question/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/adarshh8/leetcode_question/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshh8/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/adarshh8/leetcode_question/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adarshh8/leetcode_question/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/adarshh8/leetcode_question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adarshh8/leetcode_question/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/adarshh8/leetcode_question/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/adarshh8/leetcode_question/tree/master/1975-maximum-matrix-sum) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/adarshh8/leetcode_question/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adarshh8/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/adarshh8/leetcode_question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/adarshh8/leetcode_question/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/adarshh8/leetcode_question/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |

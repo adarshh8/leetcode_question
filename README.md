@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/adarshh8/leetcode_question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/adarshh8/leetcode_question/tree/master/1903-largest-odd-number-in-string) |
 | [2288-count-operations-to-obtain-zero](https://github.com/adarshh8/leetcode_question/tree/master/2288-count-operations-to-obtain-zero) |
+| [2413-smallest-even-multiple](https://github.com/adarshh8/leetcode_question/tree/master/2413-smallest-even-multiple) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adarshh8/leetcode_question/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/adarshh8/leetcode_question/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/adarshh8/leetcode_question/tree/master/2413-smallest-even-multiple) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 ## Matrix
 |  |

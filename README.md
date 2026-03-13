@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adarshh8/leetcode_question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adarshh8/leetcode_question/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/adarshh8/leetcode_question/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/adarshh8/leetcode_question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/adarshh8/leetcode_question/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshh8/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adarshh8/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/adarshh8/leetcode_question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/adarshh8/leetcode_question/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/adarshh8/leetcode_question/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/adarshh8/leetcode_question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/adarshh8/leetcode_question/tree/master/1903-largest-odd-number-in-string) |
 | [1975-maximum-matrix-sum](https://github.com/adarshh8/leetcode_question/tree/master/1975-maximum-matrix-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/adarshh8/leetcode_question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/adarshh8/leetcode_question/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Queue
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adarshh8/leetcode_question/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/adarshh8/leetcode_question/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/adarshh8/leetcode_question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3516-find-closest-person](https://github.com/adarshh8/leetcode_question/tree/master/3516-find-closest-person) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adarshh8/leetcode_question/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-last-stone-weight](https://github.com/adarshh8/leetcode_question/tree/master/1046-last-stone-weight) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adarshh8/leetcode_question/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/adarshh8/leetcode_question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/adarshh8/leetcode_question/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List

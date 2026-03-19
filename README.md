@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adarshh8/leetcode_question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adarshh8/leetcode_question/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/adarshh8/leetcode_question/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/adarshh8/leetcode_question/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/adarshh8/leetcode_question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/adarshh8/leetcode_question/tree/master/3379-transformed-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/adarshh8/leetcode_question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/adarshh8/leetcode_question/tree/master/1895-largest-magic-square) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/adarshh8/leetcode_question/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3714-longest-balanced-substring-ii](https://github.com/adarshh8/leetcode_question/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/adarshh8/leetcode_question/tree/master/3721-longest-balanced-subarray-ii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/adarshh8/leetcode_question/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/adarshh8/leetcode_question/tree/master/1975-maximum-matrix-sum) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/adarshh8/leetcode_question/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/adarshh8/leetcode_question/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Tree
 |  |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/adarshh8/leetcode_question/tree/master/0496-next-greater-element-i) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adarshh8/leetcode_question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/adarshh8/leetcode_question/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/adarshh8/leetcode_question/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/adarshh8/leetcode_question/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/adarshh8/leetcode_question/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adarshh8/leetcode_question/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshh8/leetcode_question/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshh8/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0874-walking-robot-simulation](https://github.com/adarshh8/leetcode_question/tree/master/0874-walking-robot-simulation) |
 | [1046-last-stone-weight](https://github.com/adarshh8/leetcode_question/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/adarshh8/leetcode_question/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adarshh8/leetcode_question/tree/master/1266-minimum-time-visiting-all-points) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/adarshh8/leetcode_question/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/adarshh8/leetcode_question/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/adarshh8/leetcode_question/tree/master/0844-backspace-string-compare) |
+| [0874-walking-robot-simulation](https://github.com/adarshh8/leetcode_question/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/adarshh8/leetcode_question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/adarshh8/leetcode_question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshh8/leetcode_question/tree/master/2073-time-needed-to-buy-tickets) |

@@ -1,13 +1,9 @@
 class Solution {
-    public int mirrorDistance(int n) {
-      int temp = n;
-      int rev=0;
-      while(n>0){
-        int lastdigit = n%10;
-        rev = (rev*10)+lastdigit;
-        n=n/10;
-      }
-      int y1=Math.abs(temp-rev);
-      return y1;
+    static public int mirrorDistance(int n) {
+        int rev=0;
+        for(int x=n; x>0; x/=10){
+            rev=10*rev+x%10;
+        }
+        return Math.abs(rev-n);
     }
 }

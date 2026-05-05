@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/adarshh8/leetcode_question/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adarshh8/leetcode_question/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshh8/leetcode_question/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/adarshh8/leetcode_question/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/adarshh8/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/adarshh8/leetcode_question/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0151-reverse-words-in-a-string) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshh8/leetcode_question/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/adarshh8/leetcode_question/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adarshh8/leetcode_question/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0114-flatten-binary-tree-to-linked-list) |

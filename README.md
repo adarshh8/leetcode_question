@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adarshh8/leetcode_question/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adarshh8/leetcode_question/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/adarshh8/leetcode_question/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/adarshh8/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/adarshh8/leetcode_question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adarshh8/leetcode_question/tree/master/0242-valid-anagram) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adarshh8/leetcode_question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/adarshh8/leetcode_question/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/adarshh8/leetcode_question/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/adarshh8/leetcode_question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adarshh8/leetcode_question/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarshh8/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |

@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/adarshh8/leetcode_question/tree/master/1512-number-of-good-pairs) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/adarshh8/leetcode_question/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2615-sum-of-distances](https://github.com/adarshh8/leetcode_question/tree/master/2615-sum-of-distances) |
+| [2965-find-missing-and-repeated-values](https://github.com/adarshh8/leetcode_question/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adarshh8/leetcode_question/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adarshh8/leetcode_question/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2906-construct-product-matrix](https://github.com/adarshh8/leetcode_question/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adarshh8/leetcode_question/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/adarshh8/leetcode_question/tree/master/2965-find-missing-and-repeated-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adarshh8/leetcode_question/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/adarshh8/leetcode_question/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adarshh8/leetcode_question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/adarshh8/leetcode_question/tree/master/2413-smallest-even-multiple) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adarshh8/leetcode_question/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/adarshh8/leetcode_question/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/adarshh8/leetcode_question/tree/master/2965-find-missing-and-repeated-values) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/adarshh8/leetcode_question/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/adarshh8/leetcode_question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3516-find-closest-person](https://github.com/adarshh8/leetcode_question/tree/master/3516-find-closest-person) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adarshh8/leetcode_question/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/adarshh8/leetcode_question/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2906-construct-product-matrix](https://github.com/adarshh8/leetcode_question/tree/master/2906-construct-product-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/adarshh8/leetcode_question/tree/master/2965-find-missing-and-repeated-values) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/adarshh8/leetcode_question/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/adarshh8/leetcode_question/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/adarshh8/leetcode_question/tree/master/3643-flip-square-submatrix-vertically) |

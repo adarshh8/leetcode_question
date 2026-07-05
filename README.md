@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/adarshh8/leetcode_question/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/adarshh8/leetcode_question/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/adarshh8/leetcode_question/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adarshh8/leetcode_question/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/adarshh8/leetcode_question/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Bit Manipulation
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |

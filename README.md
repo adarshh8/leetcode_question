@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adarshh8/leetcode_question/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adarshh8/leetcode_question/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/adarshh8/leetcode_question/tree/master/0874-walking-robot-simulation) |
+| [0977-squares-of-a-sorted-array](https://github.com/adarshh8/leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/adarshh8/leetcode_question/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/adarshh8/leetcode_question/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adarshh8/leetcode_question/tree/master/1266-minimum-time-visiting-all-points) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/adarshh8/leetcode_question/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/adarshh8/leetcode_question/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/adarshh8/leetcode_question/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/adarshh8/leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adarshh8/leetcode_question/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3643-flip-square-submatrix-vertically](https://github.com/adarshh8/leetcode_question/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adarshh8/leetcode_question/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/adarshh8/leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/adarshh8/leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/adarshh8/leetcode_question/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adarshh8/leetcode_question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/adarshh8/leetcode_question/tree/master/1727-largest-submatrix-with-rearrangements) |

@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adarshh8/leetcode_question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/adarshh8/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adarshh8/leetcode_question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adarshh8/leetcode_question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshh8/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adarshh8/leetcode_question/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/adarshh8/leetcode_question/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshh8/leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/adarshh8/leetcode_question/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adarshh8/leetcode_question/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/adarshh8/leetcode_question/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/adarshh8/leetcode_question/tree/master/0739-daily-temperatures) |

@@ -12,6 +12,7 @@ public:
         for(int i=k;i<n;i++){
             sum=sum-nums[i-k]+nums[i];
             maxSum=max(maxSum,sum);
+            
         }
         return maxSum/k;
     }

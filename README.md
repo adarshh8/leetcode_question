@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/adarshh8/leetcode_question/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1903-largest-odd-number-in-string](https://github.com/adarshh8/leetcode_question/tree/master/1903-largest-odd-number-in-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/adarshh8/leetcode_question/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adarshh8/leetcode_question/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/adarshh8/leetcode_question/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/adarshh8/leetcode_question/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/adarshh8/leetcode_question/tree/master/3714-longest-balanced-substring-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/adarshh8/leetcode_question/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adarshh8/leetcode_question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshh8/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/adarshh8/leetcode_question/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adarshh8/leetcode_question/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Array

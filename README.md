@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/adarshh8/leetcode_question/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adarshh8/leetcode_question/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/adarshh8/leetcode_question/tree/master/2965-find-missing-and-repeated-values) |
+| [2974-minimum-number-game](https://github.com/adarshh8/leetcode_question/tree/master/2974-minimum-number-game) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adarshh8/leetcode_question/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/adarshh8/leetcode_question/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adarshh8/leetcode_question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshh8/leetcode_question/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/adarshh8/leetcode_question/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2288-count-operations-to-obtain-zero](https://github.com/adarshh8/leetcode_question/tree/master/2288-count-operations-to-obtain-zero) |
+| [2974-minimum-number-game](https://github.com/adarshh8/leetcode_question/tree/master/2974-minimum-number-game) |
 | [3379-transformed-array](https://github.com/adarshh8/leetcode_question/tree/master/3379-transformed-array) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Dynamic Programming
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshh8/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adarshh8/leetcode_question/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adarshh8/leetcode_question/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2974-minimum-number-game](https://github.com/adarshh8/leetcode_question/tree/master/2974-minimum-number-game) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adarshh8/leetcode_question/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/adarshh8/leetcode_question/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/adarshh8/leetcode_question/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-last-stone-weight](https://github.com/adarshh8/leetcode_question/tree/master/1046-last-stone-weight) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/adarshh8/leetcode_question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2974-minimum-number-game](https://github.com/adarshh8/leetcode_question/tree/master/2974-minimum-number-game) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adarshh8/leetcode_question/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/adarshh8/leetcode_question/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adarshh8/leetcode_question/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |

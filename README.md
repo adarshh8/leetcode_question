@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adarshh8/leetcode_question/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adarshh8/leetcode_question/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/adarshh8/leetcode_question/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adarshh8/leetcode_question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adarshh8/leetcode_question/tree/master/0287-find-the-duplicate-number) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarshh8/leetcode_question/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adarshh8/leetcode_question/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adarshh8/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adarshh8/leetcode_question/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adarshh8/leetcode_question/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adarshh8/leetcode_question/tree/master/0540-single-element-in-a-sorted-array) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/adarshh8/leetcode_question/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adarshh8/leetcode_question/tree/master/0240-search-a-2d-matrix-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adarshh8/leetcode_question/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/adarshh8/leetcode_question/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/adarshh8/leetcode_question/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/adarshh8/leetcode_question/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/adarshh8/leetcode_question/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/adarshh8/leetcode_question/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/adarshh8/leetcode_question/tree/master/1382-balance-a-binary-search-tree) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/adarshh8/leetcode_question/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/adarshh8/leetcode_question/tree/master/3721-longest-balanced-subarray-ii) |

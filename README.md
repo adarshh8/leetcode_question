@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/adarshh8/leetcode_question/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/adarshh8/leetcode_question/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adarshh8/leetcode_question/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/adarshh8/leetcode_question/tree/master/0496-next-greater-element-i) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adarshh8/leetcode_question/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/adarshh8/leetcode_question/tree/master/0874-walking-robot-simulation) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/adarshh8/leetcode_question/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adarshh8/leetcode_question/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [0474-ones-and-zeroes](https://github.com/adarshh8/leetcode_question/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/adarshh8/leetcode_question/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/adarshh8/leetcode_question/tree/master/0696-count-binary-substrings) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adarshh8/leetcode_question/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshh8/leetcode_question/tree/master/2073-time-needed-to-buy-tickets) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/adarshh8/leetcode_question/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Prefix Sum
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adarshh8/leetcode_question/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/adarshh8/leetcode_question/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adarshh8/leetcode_question/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/adarshh8/leetcode_question/tree/master/1512-number-of-good-pairs) |
 | [3713-longest-balanced-substring-i](https://github.com/adarshh8/leetcode_question/tree/master/3713-longest-balanced-substring-i) |

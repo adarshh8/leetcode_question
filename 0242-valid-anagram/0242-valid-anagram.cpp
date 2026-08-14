@@ -4,6 +4,10 @@ public:
         int freq1[26]={0};
         int freq2[26]={0};
 
+        if(s.length() != t.length()){
+            return false;
+        }
+
         for(int i=0;i<s.length();i++){
             freq1[s[i]-'a']++;
         }
@@ -17,11 +21,6 @@ public:
                 return false;
             }
         }
-
-        if(s.length() != t.length()){
-            return false;
-        }else{
-            return true;
-        }
+        return true;
     }
 };

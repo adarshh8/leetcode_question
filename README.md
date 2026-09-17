@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/adarshh8/leetcode_question/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/adarshh8/leetcode_question/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/adarshh8/leetcode_question/tree/master/1895-largest-magic-square) |
+| [1929-concatenation-of-array](https://github.com/adarshh8/leetcode_question/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/adarshh8/leetcode_question/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/adarshh8/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adarshh8/leetcode_question/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/adarshh8/leetcode_question/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/adarshh8/leetcode_question/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/adarshh8/leetcode_question/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/adarshh8/leetcode_question/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adarshh8/leetcode_question/tree/master/2073-time-needed-to-buy-tickets) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/adarshh8/leetcode_question/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2288-count-operations-to-obtain-zero](https://github.com/adarshh8/leetcode_question/tree/master/2288-count-operations-to-obtain-zero) |
